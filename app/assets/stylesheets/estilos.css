@@ -54,8 +54,8 @@
 
 
 /*Estilos para el inicio*/
-/* .hero {
-  background-image: url('https://via.placeholder.com/1600x600');
+.hero {
+  background-image: url('https://media.licdn.com/dms/image/C4E1BAQFIqOvgHXWJdg/company-background_10000/0/1625675209687/inforcap_cover?e=2147483647&v=beta&t=kcTRj_gbCczQz1HaYiV7t7uJUt2ZHNJO9ezaMgP0ZCE');
   background-size: cover; 
   background-position: center; 
 }
@@ -83,4 +83,4 @@
 
 .cta p {
   font-size: 1.125rem; 
-} */
+}
